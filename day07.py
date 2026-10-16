@@ -52,7 +52,7 @@ for x in range(1,4):
 print('\n')
 for x in range(1,3):
     for y in range(3,5):
-        for z in range(5,7):
+        for z in range(5,7): 
             print((x,y,z), end=' ') #(1,3,5) (1,3,7) (1,5,5) (1,5,7) (3,3,5) (3,3,7) (3,5,5) (3,5,7)
 
 #matrix 
